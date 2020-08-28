@@ -7,6 +7,6 @@ void main()
   {
     p=&var;
     printf("the address of var is: %d",p);
-    printf("the value of var is: %d",*p);
+    printf("the value of var is: %d",*p); //this code is commented
   }
 }
